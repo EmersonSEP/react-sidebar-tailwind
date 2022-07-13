@@ -1,6 +1,6 @@
 {
   "name": "tailwind-css",
-  "homepage": "github-page/",
+  "homepage": "https://github.com/EmersonSEP/react-sidebar-tailwind",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -11,7 +11,9 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
