@@ -6,11 +6,11 @@
 2. Typescript
 3. Tailwind
 
-## Comentários:
-Meu primeiro contato com Tailwind.
+## 
+Comentários:
+1. Meu primeiro contato com Tailwind.
 
 
-##
 ## Imagens
 
 
