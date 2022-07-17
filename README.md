@@ -6,7 +6,12 @@
 2. Typescript
 3. Tailwind
 
+## Comentários:
+Meu primeiro contato com Tailwind.
+
+
 ##
+## Imagens
 
 
 ![image](https://user-images.githubusercontent.com/45860122/178655262-b8471c91-3105-4d78-904f-505e1cbb2f7a.png)
